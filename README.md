@@ -4,8 +4,6 @@
 
 <img src="demo.png" alt="Demo of the Everyone's Canvas">
    
-[Try it Now](https://draw.mom)
-
 </div>
 
 **Everyone's Canvas** is a real-time, collaborative drawing web application where users from around the world can draw, doodle, and share ideas on a shared, finite canvas. Built with Node.js, Express, and Fabric.js, this project offers a simple yet powerful platform for creative collaboration—no registration required!
